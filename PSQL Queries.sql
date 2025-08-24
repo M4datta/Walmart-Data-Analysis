@@ -1,4 +1,4 @@
--- Walmart Project Queries
+- Walmart Project Queries
 
 SELECT * FROM walmart;
 
